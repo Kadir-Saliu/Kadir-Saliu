@@ -1,3 +1,7 @@
+<h1>Hey 👋 What´s up?</h1>
+<p>My name is Tim and I'am a frontend developer from Nuremberg</p>
+
+
 <img src="https://raw.githubusercontent.com/Kadir-Saliu/Kadir-Saliu/output/snake.svg" alt="Snake animation" />
 
 ###
