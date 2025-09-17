@@ -1,4 +1,4 @@
-<h1>Hey 👋 What´s up?</h1>
+<h2>Hey 👋 What´s up?</h2>
 <p>My name is Kadir and I'am a frontend developer from Nuremberg</p>
 
 
