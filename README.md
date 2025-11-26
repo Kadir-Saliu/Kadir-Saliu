@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/kadir-saliu-0a783a353/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://outlook.live.com/mail/0/" target="_blank">
+  <a href="kadir_saliu@hotmail.de" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
